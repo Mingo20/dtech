@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon-512.png" width="96" alt="DGTech" />
+<img src="assets/brand/dg-logo-512.png" width="96" alt="DGTech" />
 
 # DGTech · Ecosistema de aplicaciones
 
