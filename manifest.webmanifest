@@ -1,0 +1,23 @@
+{
+  "name": "DGTech · Aplicaciones",
+  "short_name": "DGTech",
+  "description": "El ecosistema de aplicaciones de DGTech en un solo lugar.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07080B",
+  "theme_color": "#07080B",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
