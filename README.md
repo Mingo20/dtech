@@ -73,3 +73,12 @@ WhatsApp [+1 829 646 9885](https://wa.me/18296469885) · República Dominicana
 <div align="center">
 <sub>DGTech · 2026 · Hecho con intención en República Dominicana</sub>
 </div>
+
+
+---
+
+## Documentación del ecosistema
+
+- [CONTEXT.md](CONTEXT.md): contexto general de DGTech para personas y agentes de IA
+- [CONTRIBUTING.md](CONTRIBUTING.md): cómo trabajar en cualquier proyecto
+- [SECURITY.md](SECURITY.md): política de seguridad
